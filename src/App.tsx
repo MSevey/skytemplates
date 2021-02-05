@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>SkyTemplates coming soon.</p>
+        <p>SkyTemplates coming soon</p>
         <a
           className="App-link"
           href="https://siasky.net"
