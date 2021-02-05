@@ -1,0 +1,3 @@
+[submodule "skystandards"]
+	path = src/skystandards
+	url = https://github.com/NebulousLabs/skystandards
